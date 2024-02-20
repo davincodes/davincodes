@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arvin Antonio</h1>
 <h3 align="center">Aspiring Full-stack Web Developer and Persistent Upskilling</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davincodes&label=Profile%20views&color=0e75b6&style=flat" alt="davincodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davincodes" alt="davincodes" /></a> </p>
-
 - 🌱 I’m currently learning **React and Firebase**
 
 - 👨‍💻 All of my projects are available at [davincodes.vercel.app](davincodes.vercel.app)
