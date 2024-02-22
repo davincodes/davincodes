@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aarvinantonio@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I believe I've developed a strong affection for coding **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
