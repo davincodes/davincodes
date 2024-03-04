@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvin Antonio</h1>
-<h3 align="center">Aspiring Full-stack Web Developer and Persistent Upskilling</h3>
+<h3 align="center">Aspiring Software Engineer and Persistent Upskilling</h3>
 
 - 🌱 I’m currently learning **React and Firebase**
 
