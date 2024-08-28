@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvin Antonio</h1>
-<h3 align="center">Software Engineer and Persistent Upskilling</h3>
+<h3 align="center">UI/UX Developer</h3>
 
-- 🌱 I’m currently learning **React and Firebase**
+- 🌱 I’m currently learning **React and Wordpress**
 
 - 👨‍💻 All of my projects are available at [davincodes.vercel.app](davincodes.vercel.app)
 
