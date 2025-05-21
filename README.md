@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arvin Antonio</h1>
 
-- 🌱 I’m currently learning **React and Wordpress**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [davincodes.vercel.app](davincodes.vercel.app)
 
 - 📫 How to reach me **aarvinantonio@gmail.com**
 
-- ⚡ Fun fact **I believe I've developed a strong affection for coding **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
